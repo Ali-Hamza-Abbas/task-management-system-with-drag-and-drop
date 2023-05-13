@@ -20,7 +20,7 @@ This is a task management system built with Laravel and JavaScript, allowing use
 ### Clone the repository
 
 ```shell
-git clone 
+git clone https://github.com/Ali-Hamza-Abbas/task-management-system-with-drag-and-drop.git
 ```
 
 Navigate to the project directory
